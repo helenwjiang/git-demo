@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-Random Text
+## Website Contents
 
-More Random Text
+1. index.html
